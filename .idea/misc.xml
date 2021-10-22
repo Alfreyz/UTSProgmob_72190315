@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/SDali/AndroidStudioProjects/UTS/app/src/main/res/layout/activity_add_mahasiswa.xml" value="0.4173913181932306" />
+        <entry key="..\:/Users/SDali/AndroidStudioProjects/UTS/app/src/main/res/layout/activity_get_mahasiswa_activtiy.xml" value="0.2942708333333333" />
+        <entry key="..\:/Users/SDali/AndroidStudioProjects/UTS/app/src/main/res/layout/activity_main.xml" value="0.26145833333333335" />
+        <entry key="..\:/Users/SDali/AndroidStudioProjects/UTS/app/src/main/res/layout/activity_update_mahasiswa.xml" value="0.26145833333333335" />
+        <entry key="..\:/Users/SDali/AndroidStudioProjects/UTS/app/src/main/res/layout/rv_item_mahasiswa.xml" value="0.559304366378929" />
+        <entry key="..\:/Users/SDali/AndroidStudioProjects/UTS/app/src/main/res/layout/rv_test_mahasiswa.xml" value="0.2754782700075322" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
